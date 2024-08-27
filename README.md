@@ -1,52 +1,33 @@
-## Hi there 👋
+<!-- Artistic Header with ASCII Art -->
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGfjdbEVM1TeQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724771839470?e=1730332800&v=beta&t=1bgH4qQpSgvQ5Zq64AYNudts5zqlKS3tGX198mT-988" alt="Banner" width="100%" />
+</div>
 
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGfjdbEVM1TeQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724771839470?e=1730332800&v=beta&t=1bgH4qQpSgvQ5Zq64AYNudts5zqlKS3tGX198mT-988" alt="Profile Banner" width="100%" />
-</p>
+<h2 align="center">👨‍💻 Next.js & Three.js Developer | Crafting 3D Web Experiences 🌐</h2>
 
-<!-- Profile Heading -->
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<!-- Creative ASCII Art -->
 
-<!-- Profile Description -->
-<p align="center">
-  <strong>Next.js & Three.js Developer</strong>
-</p>
+<!-- About Me Section with Icons and Animations -->
+### 🎨 **Who Am I?**
 
-<!-- About Me Section -->
-### 🚀 About Me
+I'm a creative coder, blending the power of **Next.js** with the magic of **Three.js** to bring immersive, 3D web experiences to life. Whether it's complex animations, interactive UI, or cutting-edge visuals, I’m constantly pushing the boundaries of what’s possible on the web.
 
-I'm a passionate developer with a strong focus on building interactive and dynamic web experiences using **Next.js** and **Three.js**. I enjoy creating 3D visualizations, animations, and performant web applications.
+- **🌟 Exploring:** Cutting-edge WebGL, Shader Programming, and Interactive 3D Interfaces.
+- **🚀 Building:** Next-gen web applications with dynamic 3D environments.
+- **🌌 Vision:** Crafting the future of the web with a fusion of art and code.
 
-- 🔭 I’m currently working on [Your Current Project or Learning Path].
-- 🌱 I’m learning more about advanced 3D graphics and WebGL.
-- 👯 I’m looking to collaborate on projects involving Next.js and Three.js.
-- 💬 Ask me about anything related to JavaScript, React, Next.js, or Three.js.
+### 🧠 **Tech Stack & Skills**
 
-<!-- Skills Section -->
-### 🛠️ Tech Stack
+- **Languages & Frameworks:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000), ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white), ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+- **3D & Graphics:** ![WebGL](https://img.shields.io/badge/-WebGL-990000?style=flat-square&logo=webgl&logoColor=white), ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+- **Tools:** ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white), ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-- **Frontend:** Next.js, React.js, Three.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Tools:** Git, GitHub, VS Code
+### 🎯 **Featured Projects**
 
-<!-- GitHub Stats Section -->
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHubUsername]&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<!-- Contact Section -->
-### 📫 Let's Connect
-
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-- Portfolio: [Your Portfolio](https://your-portfolio.com)
-- Email: your.email@example.com
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=[YourGitHubUsername].[YourGitHubUsername]" alt="Visitors" />
-</p>
+```html
+| 🌐 Project Name | 🚀 Tech Stack | 🔗 Links |
+|----------------|--------------|----------|
+| Project Alpha  | Next.js, Three.js | [Live Demo](#) |
+| Project Beta   | React.js, WebGL | [Live Demo](#) |
+| Project Gamma  | Next.js, Blender | [Live Demo](#) |
 
