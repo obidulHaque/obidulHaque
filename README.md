@@ -5,14 +5,9 @@
 
 <h2 align="center">👨‍💻 Next.js & Three.js Developer | Crafting 3D Web Experiences 🌐</h2>
 
-<!-- About Me Section -->
 ### 🎨 **Who Am I?**
 
 I'm a creative coder, building interactive and dynamic web experiences using **Next.js** and **Three.js**. Whether it's complex animations, interactive UI, or cutting-edge visuals, I’m constantly pushing the boundaries of what’s possible on the web.
-
-- **🌟 Exploring:** Cutting-edge WebGL, Shader Programming, and Interactive 3D Interfaces.
-- **🚀 Building:** Next-gen web applications with dynamic 3D environments.
-- **🌌 Vision:** Crafting the future of the web with a fusion of art and code.
 
 ### 🛠️ **Tech Stack**
 
@@ -24,26 +19,26 @@ I'm a creative coder, building interactive and dynamic web experiences using **N
 
 | 🌐 Project Name | 🚀 Tech Stack | 🔗 Links |
 |----------------|--------------|----------|
-| **Project Alpha**  | Next.js, Three.js | [Live Demo](#) |
-| **Project Beta**   | React.js, WebGL | [Live Demo](#) |
-| **Project Gamma**  | Next.js, Tailwind CSS | [Live Demo](#) |
+| **Bangladesh 2nd liberation war museum**  | Three.js,Gsap | [Live Demo](https://museumbd.netlify.app/) [userManual](https://www.linkedin.com/posts/md-obidul-haque-3ba641255_bangladesh-bangla-movment-activity-7233750883069526017-3HjR?utm_source=share&utm_medium=member_desktop) |
+| **Modern Day WebSite**   | React.js, tailwind, Framer Motion, locomotive scroll | [Live Demo](https://modanwebsite.netlify.app/) |
+| **Project Gamma**  | Next.js, Tailwind CSS | **coming Soon** |
 
-### 🔥 **Streak Stats & Contribution Graph**
+### 🔥 **GitHub Stats & Contribution Graph**
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=[YourGitHubUsername]&theme=radical" alt="GitHub Streak Stats" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=[YourGitHubUsername]&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
+  <img src="https://streak-stats.demolab.com?user=obidulHaque&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=obidulHaque&theme=radical" alt="Contribution Graph" />
 </p>
 
 ### 🌐 **Where to Find Me**
 
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/your-profile)
-- **Portfolio:** [Visit my website](https://your-portfolio.com)
-- **Email:** [Get in touch](mailto:your.email@example.com)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/md-obidul-haque-3ba641255/)
+- **Portfolio:** [Visit my website](https://obidulhaque.netlify.app/)
+- **Email:** [Get in touch](obaidulhoqejoy@gmail.com)
 
 <!-- Animated Footer with GitHub Skyline -->
 <p align="center">
-  <img src="https://github.com/YourGitHubUsername/github-skyline/raw/master/2023.gif" alt="GitHub Skyline" width="100%" />
+  <img src="https://github.com/obidulHaque/github-skyline/raw/master/2023.gif" alt="GitHub Skyline" width="100%" />
 </p>
 
 
