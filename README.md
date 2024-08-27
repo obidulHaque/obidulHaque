@@ -19,7 +19,7 @@ I'm a creative coder, building interactive and dynamic web experiences using **N
 
 | 🌐 Project Name | 🚀 Tech Stack | 🔗 Links |
 |----------------|--------------|----------|
-| **Bangladesh 2nd liberation war museum**  | Three.js,Gsap | [Live Demo](https://museumbd.netlify.app/) [userManual](https://www.linkedin.com/posts/md-obidul-haque-3ba641255_bangladesh-bangla-movment-activity-7233750883069526017-3HjR?utm_source=share&utm_medium=member_desktop) |
+| **Bangladesh 2nd liberation war museum**  | Three.js,Gsap | [Live Demo](https://museumbd.netlify.app/)|| [userManual](https://www.linkedin.com/posts/md-obidul-haque-3ba641255_bangladesh-bangla-movment-activity-7233750883069526017-3HjR?utm_source=share&utm_medium=member_desktop) |
 | **Modern Day WebSite**   | React.js, tailwind, Framer Motion, locomotive scroll | [Live Demo](https://modanwebsite.netlify.app/) |
 | **Project Gamma**  | Next.js, Tailwind CSS | **coming Soon** |
 
