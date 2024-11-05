@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGfjdbEVM1TeQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724771839470?e=1730332800&v=beta&t=1bgH4qQpSgvQ5Zq64AYNudts5zqlKS3tGX198mT-988" alt="Profile Banner" width="100%" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGfjdbEVM1TeQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724771839470?e=1730332800&v=beta&t=1bgH4qQpSgvQ5Zq64AYNudts5zqlKS3tGX198mT-988](https://res.cloudinary.com/drkeiscrs/image/upload/v1730819661/coverImage/pkpil7a0x2wsq9at0u96.jpg" alt="Profile Banner" width="100%" />
 </p>
 
 <h2 align="center">👨‍💻 Next.js & Three.js Developer | Crafting 3D Web Experiences 🌐</h2>
