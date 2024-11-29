@@ -3,42 +3,64 @@
   <img src="https://res.cloudinary.com/drkeiscrs/image/upload/v1730819661/coverImage/pkpil7a0x2wsq9at0u96.jpg" alt="Profile Banner" width="100%" />
 </p>
 
-<h2 align="center">👨‍💻 Next.js & Three.js Developer | Crafting 3D Web Experiences 🌐</h2>
 
-### 🎨 **Who Am I?**
+## 🛠 Skills and Expertise  
 
-I'm a creative coder, building interactive and dynamic web experiences using **Next.js** and **Three.js**. Whether it's complex animations, interactive UI, or cutting-edge visuals, I’m constantly pushing the boundaries of what’s possible on the web.
+### **Frontend Development**  
+- React, Next.js, Tailwind CSS, Framer Motion, GSAP, Three.js  
+- Responsive Web Development  
+- Interactive animations and effects  
 
-### 🛠️ **Tech Stack**
+### **Backend Development**  
+- Node.js, Express.js  
+- MongoDB, MySQL, Prisma  
 
-- **Frontend:** Next.js, React.js, Three.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Tools:** Git, GitHub, VS Code
+### **Figma Design**  
+- Prototyping and designing mobile and web applications  
+- Projects include designs for **Runway App**, **Coffee Shop App**, and **EV Bike Website**  
 
-### 🎯 **Featured Projects**
+### **State Management & Tools**  
+- Zustand, Redux, React Context  
+- GitHub for version control  
 
-| 🌐 Project Name | 🚀 Tech Stack | 🔗 Links |
-|----------------|--------------|----------|
-| **Bangladesh 2nd liberation war museum**  | Three.js,Gsap | [Live Demo](https://museumbd.netlify.app/) & [userManual](https://www.linkedin.com/posts/md-obidul-haque-3ba641255_bangladesh-bangla-movment-activity-7233750883069526017-3HjR?utm_source=share&utm_medium=member_desktop) |
-| **Modern Day WebSite**   | React.js, tailwind, Framer Motion, locomotive scroll | [Live Demo](https://modanwebsite.netlify.app/) |
-| **Project Gamma**  | Next.js, Tailwind CSS | **coming Soon** |
+---
 
-### 🔥 **GitHub Stats & Contribution Graph**
+## 🚀 Projects  
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=obidulHaque&theme=radical" alt="GitHub Streak Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=obidulHaque&theme=radical" alt="Contribution Graph" />
-</p>
+### [Green Bangla Courier System](#)  
+A courier website emphasizing teamwork and robust functionality.  
+- **Tech Stack**: Next.js, Tailwind CSS, Prisma, MongoDB, Cloudinary  
+- **Features**: User and Admin dashboards, Authentication, File Management  
+- [Live Website](#) | [GitHub Repository](#)  
 
-### 🌐 **Where to Find Me**
+### [Bangladesh 2nd Liberation War Museum](#)  
+An interactive 3D experience built with **Three.js** and **GSAP**, showcasing history.  
+- **Features**: Movement controls, immersive design  
+- [Live Website](#) | [GitHub Repository](#)  
 
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/md-obidul-haque-3ba641255/)
-- **Portfolio:** [Visit my website](https://obidulhaque.netlify.app/)
-- **Email:** [Get in touch](obaidulhoqejoy@gmail.com)
+### [Figma Design Projects](#)  
+- **Runway App Design**: [Prototype](#) | [Video](#)  
+- **Coffee Shop App Design**: [Prototype](#) | [Video](#)  
+- **EV Bike Website Design**: [Prototype](#) | [Video](#)  
 
-<!-- Animated Footer with GitHub Skyline -->
-<p align="center">
-  <img src="https://github.com/obidulHaque/github-skyline/raw/master/2023.gif" alt="GitHub Skyline" width="100%" />
-</p>
+---
+
+## 🌱 What I’m Learning  
+- Deepening expertise in **React Native** for app development  
+- Exploring advanced design workflows with **Figma**  
+- Preparing to become an **AWS Certified Developer**  
+
+---
+
+## 📫 Let's Connect!  
+
+- **Email**: obaidulhoqejoy@gmail.com  
+- **Phone**: +880 1315721444  
+- **LinkedIn**: [Obaidul Haque](https://linkedin.com/in/obaidulhoqejoy)  
+- **GitHub**: [@obidulHaque](https://github.com/obidulHaque)  
+
+---
+
+Thank you for visiting my profile! Feel free to explore my projects and connect with me. Together, let’s create something amazing! 🌟  
 
 
