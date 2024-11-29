@@ -1,8 +1,10 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://res.cloudinary.com/drkeiscrs/image/upload/v1730819661/coverImage/pkpil7a0x2wsq9at0u96.jpg" alt="Profile Banner" width="100%" />
-</p>
+# 👋 Hi, I'm Obaidul Haque  
 
+![Profile Banner](https://via.placeholder.com/900x200.png?text=Welcome+to+my+GitHub+Profile)  
+
+I’m a **Full-Stack Developer** and **Figma Designer** passionate about crafting modern, efficient, and interactive web applications. With over 2 years of experience in web development, I specialize in building dynamic projects using **React**, **Next.js**, **Three.js**, and **Tailwind CSS**, along with designing intuitive prototypes in **Figma**.  
+
+---
 
 ## 🛠 Skills and Expertise  
 
@@ -52,6 +54,32 @@ An interactive 3D experience built with **Three.js** and **GSAP**, showcasing hi
 
 ---
 
+## 🔥 **GitHub Stats & Contribution Graph**
+
+<p align="center">
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=obidulHaque&theme=radical" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <!-- GitHub Profile Summary Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=obidulHaque&theme=radical" alt="GitHub Contribution Graph" />
+</p>
+
+<p align="center">
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obidulHaque&layout=compact&theme=radical" alt="Top Languages" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=obidulHaque&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=obidulHaque&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
 ## 📫 Let's Connect!  
 
 - **Email**: obaidulhoqejoy@gmail.com  
@@ -62,5 +90,4 @@ An interactive 3D experience built with **Three.js** and **GSAP**, showcasing hi
 ---
 
 Thank you for visiting my profile! Feel free to explore my projects and connect with me. Together, let’s create something amazing! 🌟  
-
 
