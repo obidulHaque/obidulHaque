@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Obaidul Haque  
 
-![Profile Banner](https://via.placeholder.com/900x200.png?text=Welcome+to+my+GitHub+Profile)  
+![Profile Banner](https://res.cloudinary.com/drkeiscrs/image/upload/v1732894938/coverImage/x9dtlqbg4kglwi9omaad.jpg)  
 
 I’m a **Full-Stack Developer** and **Figma Designer** passionate about crafting modern, efficient, and interactive web applications. With over 2 years of experience in web development, I specialize in building dynamic projects using **React**, **Next.js**, **Three.js**, and **Tailwind CSS**, along with designing intuitive prototypes in **Figma**.  
 
@@ -33,17 +33,17 @@ I’m a **Full-Stack Developer** and **Figma Designer** passionate about craftin
 A courier website emphasizing teamwork and robust functionality.  
 - **Tech Stack**: Next.js, Tailwind CSS, Prisma, MongoDB, Cloudinary  
 - **Features**: User and Admin dashboards, Authentication, File Management  
-- [Live Website](#) | [GitHub Repository](#)  
+- [Live Website](https://courrier-three.vercel.app/) | [GitHub Repository](https://github.com/sazzad9911/courrier)  
 
 ### [Bangladesh 2nd Liberation War Museum](#)  
 An interactive 3D experience built with **Three.js** and **GSAP**, showcasing history.  
 - **Features**: Movement controls, immersive design  
-- [Live Website](#) | [GitHub Repository](#)  
+- [Live Website](https://museumbd.netlify.app/) | [GitHub Repository](https://github.com/obidulHaque/Bangladesh-2nd-Liberation-War-Museum)  
 
 ### [Figma Design Projects](#)  
-- **Runway App Design**: [Prototype](#) | [Video](#)  
-- **Coffee Shop App Design**: [Prototype](#) | [Video](#)  
-- **EV Bike Website Design**: [Prototype](#) | [Video](#)  
+- **Runway App Design**: [Prototype](https://www.figma.com/proto/8uOvnbcR6Z4wP8P8Wug7A4/Untitled?node-id=1-24&t=J&starting-point-node-id=1%3A24) | [Video](https://www.linkedin.com/posts/md-obidul-haque-3ba641255_if-you-like-my-design-give-me-a-thumbs-up-activity-7268190510140280833-HNdz/)  
+- **Coffee Shop App Design**: [Prototype](https://www.figma.com/proto/3zgiAvYKmJ3nNTd6VcZPJV/Untitled?node-id=1-91&t=oV6JJewL2Rh910iH-1&starting-point-node-id=1%3A91) | [Video](https://www.linkedin.com/posts/md-obidul-haque-3ba641255_here-is-the-prototype-link-httpslnkdin-activity-7265620795362529280-zrxC/)  
+- **EV Bike Website Design**: [Prototype](https://www.figma.com/proto/ROgnCoGMmFUnXtBE8Kwfax/Untitled?node-id=2-2&t=GF6ICyDgLd20zASG-1&starting-point-node-id=2%3A2) | [Video](https://www.linkedin.com/feed/update/urn:li:activity:7266794786659975169/)  
 
 ---
 
