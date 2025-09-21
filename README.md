@@ -1,26 +1,5 @@
 # 👾 Obaidul Haque
 
-**Next.js, Shopify & React Native Dev** | Full-Stack Wizard 🪄
-
-I’m a **Next.js ninja**, **Shopify sorcerer**, and **React Native rockstar** building **blazing-fast web apps**, **stunning e-commerce platforms**, and **sleek mobile experiences**. My code is clean, scalable, and built to impress. If you’re seeing this, you’re about to discover a dev who turns ideas into reality with pixel-perfect precision. 🚀
-
----
-
-## 🛠 Arsenal
-
-- **Frontend**: Next.js, React Native, Shopify, Tailwind CSS
-- **Backend**: Node.js
-- **Databases**: MongoDB, MySQL
-- **Tools**: Git, Figma
-
----
-
-## 🔥 Code in Action
-
-- **[Green Bangla Courier](#)**: Next.js-powered logistics hub. [Live](https://courrier-three.vercel.app/) | [Code](https://github.com/sazzad9911/courrier)
-- **[Liberation War Museum](#)**: 3D immersive history with Three.js. [Live](https://museumbd.netlify.app/) | [Code](https://github.com/obidulHaque/Bangladesh-2nd-Liberation-War-Museum)
-
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg">
@@ -28,12 +7,7 @@ I’m a **Next.js ninja**, **Shopify sorcerer**, and **React Native rockstar** b
   <img alt="Breakout Game" src="images/breakout-light.svg">
 </picture>
 
-## 🌌 Currently Leveling Up
 
-- React Native mastery
-- Shopify store customization
-
----
 
 ## 📡 Ping Me
 
