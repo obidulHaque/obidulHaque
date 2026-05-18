@@ -12,4 +12,4 @@
 ## 🛠️ Languages I Use
 
 
-![JavaScript](https://skillicons.dev/icons?i=js,ts,java,react,nextjs,nodejs,python,tailwind,mongodb,postgresql&theme=dark)
+![JavaScript](https://skillicons.dev/icons?i=js,ts,java&theme=dark)
