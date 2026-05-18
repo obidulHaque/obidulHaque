@@ -11,4 +11,5 @@
 
 ## 🛠️ Languages I Use
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obidulHaque&layout=compact&theme=dracula&hide_border=true)
+
+![JavaScript](https://skillicons.dev/icons?i=js,ts,java,react,nextjs,nodejs,python,tailwind,mongodb,postgresql&theme=dark)
